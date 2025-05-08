@@ -1,0 +1,13 @@
+{
+    "name": "devops-miniproject",
+    "version": "1.0.0",
+    "description": "A sample DevOps mini project",
+    "main": "dashboard.js",
+    "scripts": {
+      "test": "echo \"✔️ Dummy test passed!\" && exit 0"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC"
+  }
+  
